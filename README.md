@@ -1,4 +1,4 @@
-![GitHub账户信息统计]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangxuezhi1234561&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats))
+![Pro_Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangxuezhi1234561&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux&logoColor=white)
 ![Riscv](https://img.shields.io/badge/-Riscv-192133?style=flat-square&logo=Riscv&logoColor=white)
